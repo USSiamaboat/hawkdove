@@ -1,8 +1,8 @@
 # Computational Validation of a Mathematical Model of Stable Multi-Species Communities in a Hawk Dove Game
 
-Authors: Jeffrey Lu
+Code and paper were authored by Jeffrey Lu.
 
-Preprinted in Arxiv. DOI 12345.
+Preprinted in arXiv. DOI 12345.
 [Paper Link](https://google.com)
 
 This is the code used to run simulations in Computational Validation of a Mathematical Model of Stable Multi-Species Communities in a Hawk Dove Game.
@@ -12,14 +12,16 @@ This is the code used to run simulations in Computational Validation of a Mathem
 All requirements can be found in the `requirements.txt` file. They are reproduced below:
 
 ```
-thing==1.0
-another_thing==1.23.4
+matplotlib==3.7.1
+numpy==1.24.2
+seaborn==0.12.2
+tqdm==4.65.0
 ```
 
 ## Citation
 
-If you find the paper or code helpful, please cite our work:
+If you find the paper or code helpful, please cite this work:
 
 ```
-something something
+J. Lu, Computational Validation of a Mathematical Model of Stable Multi-Species Communities in a Hawk Dove Game,” arXiv:TEMP [TEMP], Mar. 2023.
 ```

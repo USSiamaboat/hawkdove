@@ -123,7 +123,7 @@ graph(variables, day_n, d_pops, h_pops, ratioss, variable_name="Growth Rates")
 proportions = np.linspace(0, 1, 30)
 growth_rates = np.linspace(0, 3, 90)
 
-averages = np.zeros((30, 90))
+averages = np.zeros((30, 90)) # Final value saved in /results/averages.npy
 
 n_iters = 30
 
@@ -171,4 +171,3 @@ plt.xlabel("\nGrowth Rates", size=12)
 plt.ylabel("Starting Proportion Doves\n", size=12)
 
 plt.show()
-w

@@ -1,15 +1,9 @@
 # Computational Validation of a Mathematical Model of Stable Multi-Species Communities in a Hawk Dove Game
 
----
-
-# NOTE: THIS REPO IS NOT COMPLETE
-
----
-
 Code and paper were authored by Jeffrey Lu.
 
-Preprinted in arXiv. DOI 12345.
-[Paper Link](https://google.com)
+Preprinted scheduled in arXiv. DOI pending.
+[Paper Link Pending]
 
 This is the code used to run simulations in Computational Validation of a Mathematical Model of Stable Multi-Species Communities in a Hawk Dove Game.
 

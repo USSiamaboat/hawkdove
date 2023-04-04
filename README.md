@@ -2,8 +2,9 @@
 
 Code and paper were authored by Jeffrey Lu.
 
-Preprinted scheduled in arXiv. DOI pending.
-[Paper Link Pending]
+[Paper Link](https://arxiv.org/abs/2304.00687)
+
+DOI Pending
 
 This is the code used to run simulations in Computational Validation of a Mathematical Model of Stable Multi-Species Communities in a Hawk Dove Game.
 
